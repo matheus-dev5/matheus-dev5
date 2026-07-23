@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Matheus Viana
 
-<!--
-**matheus-dev5/matheus-dev5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em Inteligência Artificial, Automação e Desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- JavaScript
+- HTML / CSS
+- Git & GitHub
+- APIs REST
+- Inteligência Artificial
+- Automações
+- No-Code
+
+## 📂 Projetos
+
+### 🧠 NeuroLaboratório
+Plataforma voltada para soluções inteligentes e desenvolvimento de aplicações.
+
+### 🤖 BotTutor
+Assistente desenvolvido em Python para automação e interação inteligente.
+
+## 🎯 Objetivo
+
+Construir soluções que economizam tempo, automatizam processos e resolvem problemas reais utilizando IA.
+
+---
+
+📫 Contato
+
+- GitHub: https://github.com/matheus-dev5
+  
